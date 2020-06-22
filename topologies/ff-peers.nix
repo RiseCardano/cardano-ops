@@ -1103,4 +1103,18 @@
     port = 3001;
     valency = 1;
   }
+  {
+    operator = "RISECardano";
+    node = "relay1";
+    addr = "18.132.172.160";
+    port = 8080;
+    valency = 4;
+  }
+  {
+    operator = "RISECardano";
+    node = "relay2";
+    addr = "18.132.172.160";
+    port = 8081;
+    valency = 4;
+  }
 ]
